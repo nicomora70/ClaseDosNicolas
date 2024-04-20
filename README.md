@@ -1,4 +1,4 @@
 # ClaseDosNicolas
 ## Título dos 
-### T+itulo tres
+### Título tres
 creación de repositorio y manejo de MarkDown 
