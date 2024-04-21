@@ -25,5 +25,5 @@ def hola_mundo():
 ## Imágenes
 
 <p alig="center">
-<img src="./Logos/descargar.jpg" height="1000">
+<img src="./Logos/descargar.jpg" height="500">
 </p>
