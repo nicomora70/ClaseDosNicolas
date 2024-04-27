@@ -1,5 +1,5 @@
 
-#  <h1 align="center">**Programación**
+#  <h1 align="center">**Programación**</h1>
 ## **¿Qué es programar?**
 ### La programación de software es una actividad que está ligada a los procesos con los cuales se ejecutan tareas y programas en un dispositivo electrónico como las computadoras y celulares.
 ### Con la programación se automatizan tareas, se resuelven problemas y se innova a través de sistemas informáticos.
@@ -14,6 +14,10 @@
 - ### Arquitectura de software: con la que se establecen las estructuras de un sistema.
 - ### Ciencia de datos: con la que se recopilan e interpretan datos con el fin de obtener información relevante para un proceso o desarrollo de software específico.
 ###### ***Tomado de: https://edu.gcfglobal.org/es/conceptos-basicos-de-programacion/que-es-programar/1/***
+<p alig="center">
+<img src="./Logos/pgr1.jpg" height="250">
+</p>
+
 # **Lenguajes de programación**
 ## **¿Qúe es un lenguaje de programación?**
 ### En informática, se conoce como lenguaje de programación a un programa destinado a la construcción de otros programas informáticos. Su nombre se debe a que comprende un lenguaje formal que está diseñado para organizar algoritmos y procesos lógicos que serán luego llevados a cabo por un ordenador o sistema informático, permitiendo controlar así su comportamiento físico, lógico y su comunicación con el usuario humano.
@@ -27,3 +31,6 @@
 - ### **Lenguajes imperativos:** Menos flexibles, dada la secuencialidad en que construyen sus instrucciones, estos lenguajes programan mediante órdenes condicionales y un bloque de comandos al que retornan una vez llevada a cabo la función.
 - ### **Lenguajes funcionales:** También llamados procedimentales, estos lenguajes programan mediante funciones que son invocadas conforme a la entrada recibida, que a su vez son resultado de otras funciones.
 ###### ***Tomado de: https://concepto.de/lenguaje-de-programacion/***
+<p alig="center">
+<img src="./Logos/pgr2.jpg" height="500">
+</p>
